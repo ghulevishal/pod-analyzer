@@ -42,3 +42,9 @@ export SLACK_BOT_TOKEN
 3. Reinstall your app
 
 Scroll up in the OAuth page and hit the “Reinstall to Workspace” button. Slack will reauthorize the app with updated scopes.
+
+### Run Program
+
+```
+go run main.go
+```
